@@ -1,0 +1,319 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Kalung Clover Blossom Elegance",
+      "description": "Kalung emas kuning 18k mewah dengan jajaran kelopak bunga semanggi (clover) bertatahkan kristal putih berkilau. Dasar kalung yang anggun dan berkelas.",
+      "price": 2850000,
+      "image_url": "/src/assets/images/regenerated_image_1782825049628.jpg",
+      "type": "base",
+      "category": "kalung",
+      "stock": 18
+    },
+    {
+      "id": 2,
+      "name": "Kalung Kupu-Kupu Marquise Drop",
+      "description": "Kalung emas bertatahkan kristal kupu-kupu bersayap marquis dengan gantungan tetesan air mata pir (pear drop) yang memancarkan pesona romantis.",
+      "price": 2450000,
+      "image_url": "/src/assets/images/regenerated_image_1782825050932.jpg",
+      "type": "base",
+      "category": "kalung",
+      "stock": 18
+    },
+    {
+      "id": 3,
+      "name": "Kalung Rantai Daun Laurel",
+      "description": "Kalung rantai emas klasik berdesain barisan daun laurel melingkar yang melambangkan kemegahan dan kehormatan abadi.",
+      "price": 2650000,
+      "image_url": "/src/assets/images/regenerated_image_1782825052250.jpg",
+      "type": "base",
+      "category": "kalung",
+      "stock": 14
+    },
+    {
+      "id": 4,
+      "name": "Kalung Layered Multi-Charm Golden",
+      "description": "Rantai bertumpuk tiga lapis (layered chain) berlapis emas kuning 18k dengan charm bawaan matahari, bintang, dan liontin bulan.",
+      "price": 3200000,
+      "image_url": "/src/assets/images/regenerated_image_1782825053395.jpg",
+      "type": "base",
+      "category": "kalung",
+      "stock": 12
+    },
+    {
+      "id": 5,
+      "name": "Gelang Perak Ranting Daun Laurel",
+      "description": "Gelang perak murni sterling .925 buatan tangan dengan ukiran daun laurel berjalin indah dan bertahtakan batu zirconia putih bersih.",
+      "price": 1850000,
+      "image_url": "/src/assets/images/regenerated_image_1782825054591.jpg",
+      "type": "base",
+      "category": "gelang",
+      "stock": 24
+    },
+    {
+      "id": 6,
+      "name": "Gelang Emas Kelopak Daun & Kristal",
+      "description": "Gelang rantai emas tipis rose gold dengan aksen kelopak daun melengkung dari permata marquis, dikemas manis dalam kotak perhiasan beludru pink.",
+      "price": 1950000,
+      "image_url": "/src/assets/images/regenerated_image_1782825056982.jpg",
+      "type": "base",
+      "category": "gelang",
+      "stock": 22
+    },
+    {
+      "id": 7,
+      "name": "Gelang Rantai Stacked Diamond Wrist",
+      "description": "Set gelang rantai bertumpuk berlapis emas kuning 18k dengan sentuhan kristal mikro-pave berkilau tinggi yang sangat glamor.",
+      "price": 2100000,
+      "image_url": "/src/assets/images/regenerated_image_1782825056166.jpg",
+      "type": "base",
+      "category": "gelang",
+      "stock": 14
+    },
+    {
+      "id": 8,
+      "name": "Cincin Twist Sapphire & Diamond Vine",
+      "description": "Cincin perak bermodel ranting melilit bertatahkan safir biru safir dan berlian cz putih yang indah layaknya dongeng fantasi.",
+      "price": 1550000,
+      "image_url": "/src/assets/images/regenerated_image_1782825059369.jpg",
+      "type": "base",
+      "category": "cincin",
+      "stock": 30
+    },
+    {
+      "id": 9,
+      "name": "Cincin Solitaire Royal Clover Flower",
+      "description": "Cincin kawin perak berlapis platinum dengan mahkota cincin berbentuk bunga semanggi dari potongan berlian cemerlang.",
+      "price": 1750000,
+      "image_url": "/src/assets/images/regenerated_image_1782825060622.jpg",
+      "type": "base",
+      "category": "cincin",
+      "stock": 35
+    },
+    {
+      "id": 10,
+      "name": "Cincin Tiara Marquise Crown",
+      "description": "Cincin mahkota ratu perak sterling mewah bertahtakan berlian marquise berbentuk tiara agung yang memukau mata.",
+      "price": 1650000,
+      "image_url": "https://images.unsplash.com/photo-1605100804763-247f67b3557e?w=600&auto=format&fit=crop&q=80",
+      "type": "base",
+      "category": "cincin",
+      "stock": 28
+    },
+    {
+      "id": 11,
+      "name": "Cincin Stacked Rainbow Gemstones",
+      "description": "Set tumpuk cincin emas-perak eksklusif dengan paduan kristal warna-warni pelangi yang memancarkan keceriaan cerita indah Anda.",
+      "price": 2250000,
+      "image_url": "/src/assets/images/regenerated_image_1782825061458.jpg",
+      "type": "base",
+      "category": "cincin",
+      "stock": 20
+    },
+    {
+      "id": 12,
+      "name": "Anting Stacked Piercing Set - Golden Elegance",
+      "description": "Set anting tindik tinduk emas multi-tumpuk mewah dengan hiasan kupu-kupu kristal, hoop kecil, dan rantai mutiara menggantung.",
+      "price": 2350000,
+      "image_url": "/src/assets/images/regenerated_image_1782825062687.jpg",
+      "type": "base",
+      "category": "anting",
+      "stock": 15
+    },
+    {
+      "id": 13,
+      "name": "Charm Kupu-Kupu Marquis Rose Gold",
+      "description": "Charm kupu-kupu indah bersayap kristal marquise berkilauan, terbuat dari rose gold 18k yang anggun.",
+      "price": 650000,
+      "image_url": "/src/assets/images/regenerated_image_1782828549089.jpg",
+      "type": "charm",
+      "category": "gelang",
+      "stock": 98
+    },
+    {
+      "id": 14,
+      "name": "Charm Bintang & Bulan Sabit Celestial",
+      "description": "Charm kombinasi bintang jatuh dan bulan sabit mungil bertatahkan berlian mikro-pave.",
+      "price": 550000,
+      "image_url": "/src/assets/images/regenerated_image_1782828550249.jpg",
+      "type": "charm",
+      "category": "kalung",
+      "stock": 80
+    },
+    {
+      "id": 15,
+      "name": "Charm Klover Emerald Keberuntungan",
+      "description": "Charm semanggi empat daun pembawa keberuntungan dengan tatahan batu emerald hijau tua dan berlian putih.",
+      "price": 600000,
+      "image_url": "/src/assets/images/regenerated_image_1782828550945.jpg",
+      "type": "charm",
+      "category": "gelang",
+      "stock": 90
+    },
+    {
+      "id": 16,
+      "name": "Charm Tetesan Embun Mutiara Air Tawar",
+      "description": "Mutiara air tawar budidaya asli berbentuk tetesan air yang tergantung lembut pada pengait emas murni.",
+      "price": 750000,
+      "image_url": "/src/assets/images/regenerated_image_1782828551705.jpg",
+      "type": "charm",
+      "category": "anting",
+      "stock": 45
+    },
+    {
+      "id": 17,
+      "name": "Charm Mahkota Royal Tiara",
+      "description": "Charm tiara mini berhiaskan potongan berlian marquise dan cz merah muda yang menakjubkan.",
+      "price": 500000,
+      "image_url": "/src/assets/images/regenerated_image_1782828552613.jpg",
+      "type": "charm",
+      "category": "gelang",
+      "stock": 75
+    },
+    {
+      "id": 18,
+      "name": "Charm Ceri Kristal Ruby",
+      "description": "Charm berbentuk buah ceri kembar dari batu ruby merah delima asli dan gagang emas yang menggemaskan.",
+      "price": 450000,
+      "image_url": "/src/assets/images/regenerated_image_1782828553380.jpg",
+      "type": "charm",
+      "category": "cincin",
+      "stock": 60
+    },
+    {
+      "id": 19,
+      "name": "Charm Planet Saturnus Amethyst",
+      "description": "Charm planet Saturnus dengan cincin bintang emas berputar dan core batu amethyst ungu kristal.",
+      "price": 450000,
+      "image_url": "/src/assets/images/regenerated_image_1782828554265.jpg",
+      "type": "charm",
+      "category": "kalung",
+      "stock": 54
+    }
+  ],
+  "orders": [
+    {
+      "id": 1,
+      "customer_name": "Budi",
+      "customer_email": "budi@gmail.com",
+      "total_price": 2850000,
+      "status": "processing",
+      "created_at": "2026-06-30T12:37:57.390Z",
+      "shipping_address": "Orchard Road Marina Towers, No. 10 Marina Boulevard, Singapore 018981",
+      "shipping_lat": 1.3521,
+      "shipping_lng": 103.8198,
+      "payment_method": "QRIS",
+      "qris_reference": "QRIS-PL-6DD8A13E"
+    },
+    {
+      "id": 2,
+      "customer_name": "Anissa Rahma",
+      "customer_email": "nis@gmail.com",
+      "total_price": 2650000,
+      "status": "paid",
+      "created_at": "2026-07-01T12:56:34.428Z",
+      "shipping_address": "Jl. Ir. H. Juanda No. 128, Dago, Coblong, Kota Bandung, Jawa Barat, 40135",
+      "shipping_lat": -6.8863,
+      "shipping_lng": 107.6153,
+      "payment_method": "QRIS",
+      "qris_reference": "QRIS-PL-8D2F3846"
+    },
+    {
+      "id": 3,
+      "customer_name": "Anissa Rahma",
+      "customer_email": "nis@gmail.com",
+      "total_price": 2500000,
+      "status": "pending",
+      "created_at": "2026-07-05T10:48:00.331Z",
+      "shipping_address": "Jl. Setia Budi No. 12A, Selayang, Kota Medan, Sumatera Utara, 20132",
+      "shipping_lat": 3.5582,
+      "shipping_lng": 98.6324,
+      "payment_method": "QRIS",
+      "qris_reference": "QRIS-PL-A55653C9"
+    },
+    {
+      "id": 4,
+      "customer_name": "Stella",
+      "customer_email": "stella@gmail.com",
+      "total_price": 2850000,
+      "status": "pending",
+      "created_at": "2026-07-16T02:41:07.264Z",
+      "shipping_address": "Jl. Ir. H. Juanda No. 128, Dago, Coblong, Kota Bandung, Jawa Barat, 40135",
+      "shipping_lat": -6.8863,
+      "shipping_lng": 107.6153,
+      "payment_method": "QRIS",
+      "qris_reference": "QRIS-PL-6535757C"
+    },
+    {
+      "id": 5,
+      "customer_name": "Stella",
+      "customer_email": "stella@gmail.com",
+      "total_price": 5300000,
+      "status": "paid",
+      "created_at": "2026-07-16T02:42:31.477Z",
+      "shipping_address": "Jl. Ir. H. Juanda No. 128, Dago, Coblong, Kota Bandung, Jawa Barat, 40135",
+      "shipping_lat": -6.8863,
+      "shipping_lng": 107.6153,
+      "payment_method": "QRIS",
+      "qris_reference": "QRIS-PL-F77B1929"
+    }
+  ],
+  "orderItems": [
+    {
+      "id": 1,
+      "order_id": 1,
+      "product_id": 1,
+      "quantity": 1,
+      "price": 2850000
+    },
+    {
+      "id": 2,
+      "order_id": 2,
+      "product_id": 3,
+      "quantity": 1,
+      "price": 2650000
+    },
+    {
+      "id": 3,
+      "order_id": 3,
+      "product_id": 5,
+      "quantity": 1,
+      "price": 1850000
+    },
+    {
+      "id": 4,
+      "order_id": 3,
+      "product_id": 13,
+      "quantity": 1,
+      "price": 650000
+    },
+    {
+      "id": 5,
+      "order_id": 4,
+      "product_id": 1,
+      "quantity": 1,
+      "price": 2850000
+    },
+    {
+      "id": 6,
+      "order_id": 5,
+      "product_id": 7,
+      "quantity": 2,
+      "price": 2100000
+    },
+    {
+      "id": 7,
+      "order_id": 5,
+      "product_id": 13,
+      "quantity": 1,
+      "price": 650000
+    },
+    {
+      "id": 8,
+      "order_id": 5,
+      "product_id": 19,
+      "quantity": 1,
+      "price": 450000
+    }
+  ]
+}

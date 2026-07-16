@@ -1,0 +1,8 @@
+{
+  "name": "L'Atelier d'Ana: Pink Luxury Charm & Jewelry",
+  "description": "An elegant, bespoke luxury custom jewelry e-commerce platform featuring L'Atelier d'Ana's interactive visual charm builder, personalized collections, and professional inventory management.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

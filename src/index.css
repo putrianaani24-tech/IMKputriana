@@ -1,0 +1,66 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&family=Playfair+Display:ital,wght@0,400;0,500;0,600;0,700;1,400&display=swap');
+@import "tailwindcss";
+
+@theme {
+  --font-serif: "Playfair Display", Georgia, serif;
+  --font-sans: "Inter", system-ui, -apple-system, sans-serif;
+  
+  /* Rosegold luxury palette */
+  --color-rose-gold: #B76E79;
+  --color-rose-dust: #E1B3B5;
+  --color-ivory: #FFFDF9;
+  --color-luxury-dark: #2F1F21;
+}
+
+body {
+  background-color: var(--color-ivory);
+  color: var(--color-luxury-dark);
+  font-family: var(--font-sans);
+  overflow-x: hidden;
+}
+
+.font-serif-luxury {
+  font-family: var(--font-serif);
+}
+
+/* Glassmorphism utility */
+.glass-panel {
+  background: rgba(255, 253, 249, 0.8);
+  backdrop-filter: blur(8px);
+  border: 1px solid rgba(183, 110, 121, 0.15);
+}
+
+/* Elegant scrollbar */
+::-webkit-scrollbar {
+  width: 6px;
+  height: 6px;
+}
+::-webkit-scrollbar-track {
+  background: var(--color-ivory);
+}
+::-webkit-scrollbar-thumb {
+  background: var(--color-rose-dust);
+  border-radius: 3px;
+}
+::-webkit-scrollbar-thumb:hover {
+  background: var(--color-rose-gold);
+}
+
+/* Shimmering, color-shifting moving gradient for luxury typography */
+@keyframes luxury-gradient-flow {
+  0% {
+    background-position: 0% 50%;
+  }
+  50% {
+    background-position: 100% 50%;
+  }
+  100% {
+    background-position: 0% 50%;
+  }
+}
+
+.animate-luxury-flow {
+  background-size: 200% auto;
+  animation: luxury-gradient-flow 8s ease infinite;
+}
+
